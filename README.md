@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**thapaSanjay/thapaSanjay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**thapaSanjay/thapaSanjay** is a ✨ _special_ ✨ repository
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here are some information about me:
+
+- 🔭 I’m currently working as a Web Developer
+- 🌱 I’m currently learning new technologies 
+- 👯 I’m looking to collaborate on big and small projects
+- 💬 Ask me about any question
+- 📫 you can reach me via sanjaya.thapa39@gmail.com
+
+
