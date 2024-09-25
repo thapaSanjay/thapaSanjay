@@ -1,8 +1,5 @@
 # About Me 👋
 
-
-**thapaSanjay/thapaSanjay** is a ✨ _special_ ✨ repository
-
 Here are some information about me:
 
 - 🔭 I’m currently working as a Web Developer
