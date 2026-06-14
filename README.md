@@ -1,13 +1,23 @@
-# About Me 👋
+# Hi, I'm Sanjay Thapa 👋
 
-Here are some information about me:
+## Skills
+- Java
+- JavaScript
+- React
+- WordPress
+- HTML/CSS
+- SQL
+- Git/GitHub
 
-- 🔭 I’m currently working as a Web Developer
-- 🎓 Educational Qualification:
-        - Master Of Information Technology - Central Queensland University, Melbourne ( Present )    
-        - Bachelor of Information Management - Tribhuvan University, Nepal ( Completed )
-- 👯 I’m looking to collaborate on big and small projects
-- 💬 Ask me about any question
-- 📫 you can reach me via sanjaya.thapa39@gmail.com
+## Current Focus
+- Java
+- Spring Boot
+- SQL
+- Full Stack Development
+
+## Projects
+- Student Management System
+- Expense Tracker
+- React Portfolio
 
 
